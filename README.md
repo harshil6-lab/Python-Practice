@@ -1,5 +1,5 @@
 
-# 🐍 Python Practice & System Foundations
+# 🐍 Python Practice & System Foundations : 
 
 This repository contains my **daily Python practice** focused on building **strong backend and automation foundations**.
 
