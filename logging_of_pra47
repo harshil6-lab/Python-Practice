@@ -1,0 +1,101 @@
+2026-01-12 20:21:35,358 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 50
+2026-01-12 20:21:35,358 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 50
+2026-01-12 20:21:35,359 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 50
+2026-01-12 20:22:01,557 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 50
+2026-01-12 20:22:01,557 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 50
+2026-01-12 20:22:01,557 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 50
+2026-01-12 20:22:58,824 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : HK101 | amount : 50.0
+2026-01-12 20:22:58,824 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : HK101 | amount : 50.0
+2026-01-12 20:22:58,824 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : HK101 | amount : 50.0
+2026-01-12 20:23:13,364 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : HK101 | amount : 1000
+2026-01-12 20:23:13,364 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : HK101 | amount : 1000
+2026-01-12 20:23:13,364 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : HK101 | amount : 1000
+2026-01-12 20:23:40,240 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : HK101 | amount : 1000
+2026-01-12 20:23:40,241 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : HK101 | amount : 1000
+2026-01-12 20:23:40,241 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : HK101 | amount : 1000
+2026-01-12 20:24:34,734 - INFO - Payment is Widrawed | user_id : 101 | Amount : 100
+2026-01-12 20:24:45,362 - INFO - Payment is Widrawed | user_id : 101 | Amount : 0
+
+
+2026-01-12 20:25:17,594 - INFO - Payment is Widrawed | user_id : 101 | Amount : 100
+2026-01-12 20:25:39,214 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:25:39,214 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:25:39,214 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:25:55,311 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 70
+2026-01-12 20:25:55,311 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 70
+2026-01-12 20:25:55,311 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 70
+2026-01-12 20:27:50,908 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 70
+2026-01-12 20:27:50,908 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 70
+2026-01-12 20:27:50,908 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 70
+2026-01-12 20:27:59,325 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 70
+2026-01-12 20:27:59,325 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 70
+2026-01-12 20:27:59,325 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 70
+2026-01-12 20:32:39,536 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:32:39,536 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:32:39,536 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:32:39,536 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+
+
+2026-01-12 20:33:07,573 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:33:07,573 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:33:07,573 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:33:07,573 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:34:06,525 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:34:06,525 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:34:06,525 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:34:06,525 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:34:55,926 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:34:55,926 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:34:55,926 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:34:55,926 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:35:45,214 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100
+2026-01-12 20:35:45,214 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100
+2026-01-12 20:35:45,214 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100
+2026-01-12 20:35:45,215 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:36:22,132 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:22,132 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:22,133 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:22,133 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:36:32,321 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:32,321 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:32,322 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:36:32,322 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 0
+2026-01-12 20:37:26,743 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:26,744 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:26,744 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:26,744 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 0
+2026-01-12 20:37:42,786 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:42,788 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:42,788 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 0 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:37:42,788 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 0
+2026-01-12 20:44:37,969 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:37,969 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:37,971 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:37,971 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:44:43,655 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:43,656 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:43,656 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:44:43,656 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:45:45,741 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:45:45,741 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:45:45,741 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:45:45,741 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+2026-01-12 20:47:08,608 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:08,624 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:08,624 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 101 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:08,624 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 101 of amount : 100
+
+2026-01-12 20:47:35,695 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 102 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:35,695 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 102 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:35,695 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 102 | amount : 100 | Reason : payment_validation() missing 1 required positional argument: 'balance'
+2026-01-12 20:47:35,695 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 102 of amount : 100
+2026-01-12 20:48:14,495 - INFO - Payment is Widrawed | user_id : 102 | Amount : 100
+
+
+2026-01-12 20:48:24,106 - INFO - Payment is Widrawed | user_id : 102 | Amount : 100
+2026-01-12 20:48:39,175 - ERROR - The Validation is Not succeed | user_id : 102 | amount : 0
+2026-01-12 20:49:01,152 - INFO - Payment is Widrawed | user_id : 102 | Amount : 70
+2026-01-12 20:49:09,929 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 20:49:09,929 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 20:49:09,929 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 20:49:09,929 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 102 of amount : 200
