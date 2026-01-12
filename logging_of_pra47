@@ -99,3 +99,8 @@
 2026-01-12 20:49:09,929 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 102 | amount : 200 | Reason : insufficient Amount
 2026-01-12 20:49:09,929 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 102 | amount : 200 | Reason : insufficient Amount
 2026-01-12 20:49:09,929 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 102 of amount : 200
+2026-01-12 23:19:35,498 - WARNING - The Payment widtrawing is faied | attempt : 1 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 23:19:35,498 - WARNING - The Payment widtrawing is faied | attempt : 2 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 23:19:35,498 - WARNING - The Payment widtrawing is faied | attempt : 3 | user_id : 102 | amount : 200 | Reason : insufficient Amount
+2026-01-12 23:19:35,498 - CRITICAL - Payment is permanently failed after 3 attempts for user_id : 102 of amount : 200
+2026-01-12 23:19:35,498 - INFO - Payment is Widrawed | user_id : 103 | Amount : 100

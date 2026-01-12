@@ -36,3 +36,4 @@ def payment_widraw(user_id,amount):
 
 
 print(payment_widraw(102,200))
+print(payment_widraw(103,100))
