@@ -1,0 +1,5 @@
+{
+    "balance" : 100,
+    "retry"   : 3,
+    "log_file" : "Payment_log.log"
+}

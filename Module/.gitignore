@@ -1,0 +1,4 @@
+./_pycache_/
+*.pyc
+
+#documentation : _pycache_ is a folder that store the compiled version of py that are in the bytecode and not editable and commitable and also it can help in the next time fast speed of system.

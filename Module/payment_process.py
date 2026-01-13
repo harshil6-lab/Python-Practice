@@ -1,11 +1,14 @@
 from validation import payment_validation
 from loger import loging_configuration
 import logging
+from config_load import config_loader
 
+file_loading = config_loader()
+
+MAX_RETRIES = file_loading["retry"]
 def payment_withdraw(user_id,amount):
-    retry = 3
     
-    for attempt in range(1,retry+1):
+    for attempt in range(1,MAX_RETRIES+1):
      try:
       valid,result = payment_validation(amount)
       
