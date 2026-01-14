@@ -1,0 +1,15 @@
+2026-01-14 20:54:05,268 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:54:05,268 - INFO - Retrying API call, attempt 1
+2026-01-14 20:54:05,268 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:54:05,269 - INFO - Retrying API call, attempt 2
+2026-01-14 20:54:05,269 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:54:05,269 - INFO - Retrying API call, attempt 3
+2026-01-14 20:54:05,269 - CRITICAL - Max retries reached. API call is unsuccessful.
+2026-01-14 20:58:57,215 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:58:57,215 - INFO - Retrying API call, attempt 1
+2026-01-14 20:58:57,215 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:58:57,215 - INFO - Retrying API call, attempt 2
+2026-01-14 20:58:57,215 - ERROR - Error occurred during API call: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2026-01-14 20:58:57,215 - INFO - Retrying API call, attempt 3
+2026-01-14 20:58:57,215 - CRITICAL - Max retries reached. API call is unsuccessful.
+2026-01-14 21:00:52,912 - INFO - API call is successful on attempt : 1
