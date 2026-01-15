@@ -13,3 +13,9 @@
 2026-01-14 20:58:57,215 - INFO - Retrying API call, attempt 3
 2026-01-14 20:58:57,215 - CRITICAL - Max retries reached. API call is unsuccessful.
 2026-01-14 21:00:52,912 - INFO - API call is successful on attempt : 1
+2026-01-15 21:17:55,423 - INFO - API call is successful on attempt : 1
+
+
+2026-01-15 21:18:21,021 - INFO - API call is successful on attempt : 1
+2026-01-15 21:19:01,432 - ERROR - Error occurred during API call: HTTPSConnectionPool(host='jsonplacehoder.typicode.com', port=443): Max retries exceeded with url: /posts/1 (Caused by NameResolutionError("HTTPSConnection(host='jsonplacehoder.typicode.com', port=443): Failed to resolve 'jsonplacehoder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-01-15 21:19:33,622 - INFO - API call is successful on attempt : 1
